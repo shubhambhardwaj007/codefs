@@ -8,5 +8,12 @@
         "sshAuthorizedKeys": [""]
       }
     ]
+  },
+  "storage": {
+    "files": [{
+      "path": "/etc/sysctl.d/20-silence-audit.conf",
+      "mode": 420,
+      "contents": "kernel.printk=4"
+    }]
   }
 }

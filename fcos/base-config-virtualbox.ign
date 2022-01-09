@@ -10,7 +10,7 @@
           "wheel",
           "sudo"
         ],
-        "name": "root",
+        "name": "kubernetes",
         "passwordHash": "a9e119210015089d9637a00e46ec14a5",
       }
     ]

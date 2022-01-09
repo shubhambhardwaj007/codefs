@@ -10,11 +10,8 @@
           "wheel",
           "sudo"
         ],
-        "name": "k",
-        "passwordHash": "<replace-this>",
-        "sshAuthorizedKeys": [
-          "<replace-this>"
-        ]
+        "name": "root",
+        "passwordHash": "a9e119210015089d9637a00e46ec14a5",
       }
     ]
   },

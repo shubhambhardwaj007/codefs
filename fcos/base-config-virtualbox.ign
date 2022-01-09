@@ -11,7 +11,7 @@
           "sudo"
         ],
         "name": "root",
-        "passwordHash": "a9e119210015089d9637a00e46ec14a5"
+        "passwordHash": "$1$a9e119210015089d9637a00e46ec14a5"
       }
     ]
   },

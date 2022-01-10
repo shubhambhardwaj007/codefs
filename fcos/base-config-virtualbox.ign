@@ -10,7 +10,8 @@
           "wheel",
           "sudo"
         ],
-        "name": "root"
+        "name": "root",
+        "passwordHash": "$1$66U5Aq0v$Gh6fqjkk1ADTizVTvpZ7k."
       }
     ]
   },
